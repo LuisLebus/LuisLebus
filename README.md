@@ -8,7 +8,7 @@
 
 
 ## Sobre mí
-Soy ingeniero en electrónica, me dedico al desarrollo a de sistemas embebidos desde 2017.
+Soy ingeniero en electrónica, me dedico al desarrollo de sistemas embebidos desde 2017.
 <br>
 <br>
 Mis primeras experiencias laborales fueron desarrollando software para productos de agricultura de precisión, como ser sensores, controladores de corte por sección y monitores de siembra. Aquí aprendí a programar de forma extensa en lenguaje C para microcontroladores de la empresa Microchip.
