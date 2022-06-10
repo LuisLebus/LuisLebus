@@ -20,4 +20,4 @@ Durante este tiempo también comencé a estudiar y programar microcontroladores 
 En los últimos dos años, como autónomo, comencé a desarrollar software y hardware para dispositivos IoT para aplicaciones industriales, utilizando el microcontrolador ESP32 y su librería oficial ESP-IDF. Desarrollé, por ejemplo, un remotizador y controlador para cámaras frigoríficas, también un supervisor de tableros eléctricos industriales. Estos desarrollos ya son productos en venta.
 <br>
 <br>
-En cuanto al desarrollo de hardware tengo amplio conocimiento en el uso de KiCad e Eagle.
+En cuanto al desarrollo de hardware, tengo amplio conocimiento en el uso de programas como KiCad e Eagle.
